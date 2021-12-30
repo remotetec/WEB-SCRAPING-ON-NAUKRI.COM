@@ -1,6 +1,6 @@
 # Web Scraping & EDA on naukri.com
 
-Aim:
+##Aim:
 
 • To know, how many current notifications are on the job, when will we use the *Data keyword.
 
