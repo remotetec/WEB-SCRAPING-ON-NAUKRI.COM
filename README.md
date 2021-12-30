@@ -1,6 +1,6 @@
 # Web Scraping & EDA on naukri.com
 
-##Aim:
+Aim:
 
 • To know, how many current notifications are on the job, when will we use the *Data keyword.
 
@@ -8,7 +8,7 @@
 2. Company wants, how many job skills required for the job.
 Reference: https://www.naukri.com/data-jobs
 
-###Key Point
+Key Point
 
 • Project Overview.
 • Libraries Intro and uses.
@@ -18,7 +18,7 @@ Reference: https://www.naukri.com/data-jobs
 • Observations.
 • Conclusion
 
-###Introduction
+Introduction
 
 In the project, I wanted to know, if the user will type *Data 
 on the keyword on Naukri then how many jobs will display 
@@ -39,7 +39,7 @@ Featuring concept and EDA analysis.
 which city hiring the maximum count of people for 
 which profile with key skill.
 
-###Final, Exploratory Data Analysis Observations Summary:
+Final, Exploratory Data Analysis Observations Summary:
 
 • Candidates type the ***Data Keyword.
 
@@ -55,6 +55,7 @@ hire the Fresher also.
 ❑ All company mentioned in the job Notification 0-X payable amount 
 (Annum). I think, directly, Company want to tell your job interview will 
 decide how much we will provide the salary per annum.
+
 Negative:
 
 ❑ For the Data Entry : Company provide the 0- 7 Lakh package but 
