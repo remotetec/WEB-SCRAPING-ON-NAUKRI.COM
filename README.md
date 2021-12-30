@@ -71,4 +71,4 @@ name, that I mentioned. Has done in the last slides.
 
 • Data Scientist
 Naukri not the best platform for the Job. Because company hiring a person with 3 years and 
-the payable amount is 3.4-4.5K only
+the payable amount is 3.4-4.5K only.
