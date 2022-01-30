@@ -1,4 +1,10 @@
-# Web Scraping & EDA on naukri.com
+<div align="center">
+
+<h1>Web Scraping & EDA on naukri.com</h1>
+<img src="https://img.shields.io/badge/Python-3.7.3-brown" />
+<img src="https://img.shields.io/badge/Library-beautifulSoup-orange" />
+<img src="https://img.shields.io/badge/IDE-Jupyter-yellow" />
+</div>
 
 Aim:
 
